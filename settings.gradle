@@ -1,0 +1,2 @@
+include ':app', ':andydevelens'
+rootProject.name='AndroidDevelens'
